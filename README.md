@@ -30,8 +30,6 @@ When deploying the Sri Lankan NIC Analyzer, make sure to include the following f
 - `SL_NIC_Identifier.ctf` (component technology file)
 - `SL_NIC_Identifier.exe`
 - `MCRInstaller.exe`
-- If end users are unable to download the MATLAB runtime using the provided link, include it when building your component by clicking the "Runtime downloaded from web" link in the Deployment Tool.
-- This `readme` file
 
 ## Definitions
 
